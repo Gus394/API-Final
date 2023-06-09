@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Univali.Api
+build_property.RootNamespace = Univali.Api
+build_property.ProjectDir = c:\Users\7355068\Downloads\Aula-15-Projeto-Final\Univali\src\Univali.Api\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\7355068\Downloads\Aula-15-Projeto-Final\Univali\src\Univali.Api
+build_property._RazorSourceGeneratorDebug = 
